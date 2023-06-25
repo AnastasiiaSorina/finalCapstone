@@ -1,6 +1,6 @@
 # finalCapstone
 
-## Calculator
+## [Calculator](https://github.com/AnastasiiaSorina/finalCapstone/blob/main/%D1%81alculator.py)
 The calculator makes calculations and writes the calculation history to a file.
 A simple calculator app, "+ - */" with two numbers.
 
